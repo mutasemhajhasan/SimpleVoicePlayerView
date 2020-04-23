@@ -1,0 +1,3 @@
+rootProject.name='VoicePlayerExample'
+include ':app'
+include ':simplevoiceplayer'

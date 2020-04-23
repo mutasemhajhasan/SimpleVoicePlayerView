@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PlayerView">
+        <attr name="audioRes" format="integer" />
+        <attr name="playIcon" format="integer" />
+        <attr name="pauseIcon" format="integer" />
+    </declare-styleable>
+</resources>
